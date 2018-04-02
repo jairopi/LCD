@@ -1,0 +1,12 @@
+C:\Users\pedro\Desktop\version_estable\cajero-MISMACLASE\cajero\cajero\bin\Debug\cajero.exe.config
+C:\Users\pedro\Desktop\version_estable\cajero-MISMACLASE\cajero\cajero\bin\Debug\cajero.exe
+C:\Users\pedro\Desktop\version_estable\cajero-MISMACLASE\cajero\cajero\bin\Debug\cajero.pdb
+C:\Users\pedro\Desktop\version_estable\cajero-MISMACLASE\cajero\cajero\obj\Debug\cajero.csprojResolveAssemblyReference.cache
+C:\Users\pedro\Desktop\version_estable\cajero-MISMACLASE\cajero\cajero\obj\Debug\cajero.exe
+C:\Users\pedro\Desktop\version_estable\cajero-MISMACLASE\cajero\cajero\obj\Debug\cajero.pdb
+E:\LCD_Examen\practicas\cajero-MISMACLASE\cajero\cajero\bin\Debug\cajero.exe.config
+E:\LCD_Examen\practicas\cajero-MISMACLASE\cajero\cajero\obj\Debug\cajero.exe
+E:\LCD_Examen\practicas\cajero-MISMACLASE\cajero\cajero\obj\Debug\cajero.pdb
+E:\LCD_Examen\practicas\cajero-MISMACLASE\cajero\cajero\bin\Debug\cajero.exe
+E:\LCD_Examen\practicas\cajero-MISMACLASE\cajero\cajero\bin\Debug\cajero.pdb
+E:\LCD_Examen\practicas\cajero-MISMACLASE\cajero\cajero\obj\Debug\cajero.csprojResolveAssemblyReference.cache

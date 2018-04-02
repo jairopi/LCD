@@ -1,0 +1,9 @@
+C:\Users\pedro\Desktop\version_estable\aleatoriosCombinados\aleatorios\aleatorios\bin\Debug\aleatorios.exe.config
+C:\Users\pedro\Desktop\version_estable\aleatoriosCombinados\aleatorios\aleatorios\bin\Debug\aleatorios.exe
+C:\Users\pedro\Desktop\version_estable\aleatoriosCombinados\aleatorios\aleatorios\bin\Debug\aleatorios.pdb
+C:\Users\pedro\Desktop\version_estable\aleatoriosCombinados\aleatorios\aleatorios\obj\Debug\aleatorios.csprojResolveAssemblyReference.cache
+C:\Users\pedro\Desktop\version_estable\aleatoriosCombinados\aleatorios\aleatorios\obj\Debug\aleatorios.exe
+C:\Users\pedro\Desktop\version_estable\aleatoriosCombinados\aleatorios\aleatorios\obj\Debug\aleatorios.pdb
+C:\Users\jairo\Dropbox\PRACTICAS LCD. Pedro y Jairo\comentadas\aleatoriosCombinados\aleatorios\aleatorios\bin\Debug\aleatorios.exe.config
+C:\Users\jairo\Dropbox\PRACTICAS LCD. Pedro y Jairo\comentadas\aleatoriosCombinados\aleatorios\aleatorios\obj\Debug\aleatorios.exe
+C:\Users\jairo\Dropbox\PRACTICAS LCD. Pedro y Jairo\comentadas\aleatoriosCombinados\aleatorios\aleatorios\obj\Debug\aleatorios.pdb
